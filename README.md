@@ -10,7 +10,7 @@ A full-stack chatbot built for educational platforms to assist students with stu
 * ✅ User-friendly Chat Interface
 * ✅ Supports Multi-user Communication
 * ✅ Completely Free and Offline Deployable
-* ✅ Easy to Extend with new features/tasks (e.g. Bengali support, FAQ mode, voice input, etc.)
+* ✅ Easy to extend with new features/tasks (Bengali support, FAQ mode, voice input, etc.)
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +27,7 @@ A full-stack chatbot built for educational platforms to assist students with stu
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/study-assistant-chatbot.git
+git clone https://github.com/Saibhossain/AI_ChatBotUsingGPT-2.git
 cd study-assistant-chatbot
 ```
 
@@ -39,7 +39,7 @@ cd study-assistant-chatbot
 
 3. Run backend:
 ```bash
-uvicorn main:app --reload
+uvicorn main: app --reload
 ```
 
 4. Run frontend:
